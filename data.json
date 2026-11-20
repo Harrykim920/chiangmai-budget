@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795189267367,
+ "updatedAt": 1795189357539,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -484,6 +484,20 @@
    "updatedAt": 1795189265315,
    "createdAt": 1795189265315,
    "id": "mwp5c68zptxchevr"
+  },
+  {
+   "amount": 1014,
+   "title": "점심(한식당 명가)",
+   "date": "2026-11-20",
+   "memo": "한식당",
+   "cat": "food",
+   "who": [],
+   "settled": "",
+   "settledRate": "",
+   "payer": "mmwm7q4dcl32h",
+   "updatedAt": 1795189355519,
+   "createdAt": 1795189355519,
+   "id": "mwp5e3ung2mhnau3"
   }
  ],
  "rounds": []
