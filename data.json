@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795189357539,
+ "updatedAt": 1795189394906,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -498,6 +498,20 @@
    "updatedAt": 1795189355519,
    "createdAt": 1795189355519,
    "id": "mwp5e3ung2mhnau3"
+  },
+  {
+   "amount": 550,
+   "title": "카페(타일 카페)",
+   "date": "2026-11-20",
+   "memo": "커피",
+   "cat": "cafe",
+   "who": [],
+   "settled": "",
+   "settledRate": "",
+   "payer": "mmwm7q4dcl32h",
+   "updatedAt": 1795189392884,
+   "createdAt": 1795189392884,
+   "id": "mwp5ewokf9oye3m5"
   }
  ],
  "rounds": []
