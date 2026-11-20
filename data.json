@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795189457865,
+ "updatedAt": 1795189487049,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -526,6 +526,20 @@
    "updatedAt": 1795189455332,
    "createdAt": 1795189455332,
    "id": "mwp5g8v8py3fteow"
+  },
+  {
+   "amount": 890,
+   "title": "저녁(베트남 월남쌈)",
+   "date": "2026-11-20",
+   "memo": "VT넴느엉",
+   "cat": "food",
+   "who": [],
+   "settled": "",
+   "settledRate": "",
+   "payer": "mmwm7q4dcl32h",
+   "updatedAt": 1795189484592,
+   "createdAt": 1795189484592,
+   "id": "mwp5gvg0dcpnaydd"
   }
  ],
  "rounds": []
