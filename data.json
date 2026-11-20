@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795189394906,
+ "updatedAt": 1795189457865,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -512,6 +512,20 @@
    "updatedAt": 1795189392884,
    "createdAt": 1795189392884,
    "id": "mwp5ewokf9oye3m5"
+  },
+  {
+   "amount": 375,
+   "title": "장보기 비용(물, 간식 등)",
+   "date": "2026-11-20",
+   "memo": "림삥 장보기",
+   "cat": "shop",
+   "who": [],
+   "settled": "",
+   "settledRate": "",
+   "payer": "mmwm7q4dcl32h",
+   "updatedAt": 1795189455332,
+   "createdAt": 1795189455332,
+   "id": "mwp5g8v8py3fteow"
   }
  ],
  "rounds": []
