@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795272482268,
+ "updatedAt": 1795272554863,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -554,6 +554,20 @@
    "updatedAt": 1795272479755,
    "createdAt": 1795272479755,
    "id": "mwqivqx86qkfqvuv"
+  },
+  {
+   "amount": 760,
+   "title": "커피(산 뷰포인트)",
+   "date": "2026-11-21",
+   "memo": "The First Valley Coffee",
+   "cat": "food",
+   "who": [],
+   "settled": "",
+   "settledRate": "",
+   "payer": "mmwm7q4dcl32h",
+   "updatedAt": 1795272552687,
+   "createdAt": 1795272552687,
+   "id": "mwqixb73q6udgozr"
   }
  ],
  "rounds": []
