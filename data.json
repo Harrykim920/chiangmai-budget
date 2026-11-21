@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795272618510,
+ "updatedAt": 1795272621615,
  "settings": {
   "endDate": "2026-12-16",
   "members": [
@@ -551,7 +551,7 @@
    "settled": "",
    "settledRate": "",
    "payer": "mmwm7q4dcl32h",
-   "updatedAt": 1795272479755,
+   "updatedAt": 1795272619072,
    "createdAt": 1795272479755,
    "id": "mwqivqx86qkfqvuv"
   },
@@ -565,7 +565,7 @@
    "settled": "",
    "settledRate": "",
    "payer": "mmwm7q4dcl32h",
-   "updatedAt": 1795272552687,
+   "updatedAt": 1795272619154,
    "createdAt": 1795272552687,
    "id": "mwqixb73q6udgozr"
   },
@@ -579,7 +579,7 @@
    "settled": "",
    "settledRate": "",
    "payer": "mmwm7q4dcl32h",
-   "updatedAt": 1795272613911,
+   "updatedAt": 1795272619235,
    "createdAt": 1795272613911,
    "id": "mwqiymfrpj1dsl5b"
   }
